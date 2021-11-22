@@ -70,7 +70,7 @@
 
 [twitter]: https://twitter.com/iamdangero
 [youtube]: https://www.youtube.com/channel/UC38eN-VLdXt3RMotd0HW-ag
-[instagram]: https://www.instagram.com/iamdangero/
+[instagram]: https://www.instagram.com/iamargohaw/
 [linkedin]: https://www.linkedin.com/in/t-sriramasivam-85265b188/
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/

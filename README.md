@@ -1,13 +1,13 @@
 ### Hi there, I'm SRIRAM 
 
-## I'm a Student, Front End Developer, Game Developer & Enthusiast!
+## I'm a ASE in OpenText, Softeware Developer, Game Developer & Enthusiast!
 
-- 🔭 I’m currently pursuing Software Engineering;
+- 🔭 I’m pursued Software Engineering from SRM Institute of Science and Technology;
 - 🌱 I’m currently learning React and Express;
-- 👯 I’m Proficient with C++, Python;
-- 🤔 I’m interested in ML and Game Development;
+- 👯 I’m Proficient with C++, C, Java, HTML, JavaScript, CSS;
+- 🤔 I’m interested in Software Product development;
 - 💬 Ask me about anything;
-- 📫 How to reach me: [Gmail](sritherock23@gmail.com);
+- 📫 How to reach me: [Gmail](tsriram2310@gmail.com);
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: I am Ironman .
 - Check my website : https://carsarena.netlify.app/

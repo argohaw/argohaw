@@ -2,7 +2,7 @@
 
 ## I'm a ASE in OpenText, Softeware Developer, Game Developer & Enthusiast!
 
-- 🔭 I’m pursued Software Engineering from SRM Institute of Science and Technology;
+- 🔭 I pursued B.Tech in Software Engineering degree from SRM Institute of Science and Technology;
 - 🌱 I’m currently learning React and Express;
 - 👯 I’m Proficient with C++, C, Java, HTML, JavaScript, CSS;
 - 🤔 I’m interested in Software Product development;
@@ -10,7 +10,8 @@
 - 📫 How to reach me: [Gmail](tsriram2310@gmail.com);
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: I am Ironman .
-- Check my website : https://carsarena.netlify.app/
+-  Check my website : https://sriramportfoliowebsite.web.app/
+-  Check out CarsArena Website : https://carsarena.netlify.app/
 
 ### Connect with me:
 

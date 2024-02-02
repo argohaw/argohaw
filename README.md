@@ -1,6 +1,6 @@
 ### Hi there, I'm SRIRAM 
 
-## I'm a Software Engineer in OpenText, Softeware Developer, Game Developer & Enthusiast!
+## I'm a Software Engineer in OpenText, Game Developer & Enthusiast!
 
 - 🔭 I pursued B.Tech in Software Engineering degree from SRM Institute of Science and Technology;
 - 🌱 I’m currently learning Docker and Android Development;
@@ -9,9 +9,9 @@
 - 💬 Ask me about anything;
 - 📫 How to reach me: [Gmail](tsriram2310@gmail.com);
 - 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I am Ironman .
--  Check my website : https://sriramportfoliowebsite.web.app/
--  Check out CarsArena Website : https://carsarena.netlify.app/
+- ⚡ Fun fact: I am Ironman.
+-  Check my website: https://sriramportfoliowebsite.web.app/
+-  Check out CarsArena Website: https://carsarena.netlify.app/
 
 ### Connect with me:
 

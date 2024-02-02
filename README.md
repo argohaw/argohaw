@@ -3,7 +3,7 @@
 ## I'm a Software Engineer in OpenText, Softeware Developer, Game Developer & Enthusiast!
 
 - 🔭 I pursued B.Tech in Software Engineering degree from SRM Institute of Science and Technology;
-- 🌱 I’m currently learning Docker and Machine Learning;
+- 🌱 I’m currently learning Docker and Android Development;
 - 👯 I’m Proficient with Java, HTML, JavaScript, CSS, Spring Boot, React;
 - 🤔 I’m interested in Software Product development;
 - 💬 Ask me about anything;

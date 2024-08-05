@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Gmail](tsriram2310@gmail.com);
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: I am Ironman.
--  Check my website: https://sriramportfoliowebsite.web.app/
+-  Check my website: https://argohaw.github.io/SriramPortfolio/
 -  Check out CarsArena Website: https://carsarena.netlify.app/
 
 ### Connect with me:

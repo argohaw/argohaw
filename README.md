@@ -1,79 +1,73 @@
-### Hi there, I'm SRIRAM 
+# 👋 Hi, I'm Sriramasivam Thirumalaivasan
 
-## I'm a Software Engineer in OpenText, Game Developer & Enthusiast!
+## 🔹 Intro
+I’m a **Java Full Stack Developer** who spends more time with **Java, Spring Boot, and React.js** than with Netflix (and that’s saying something).  
+With 4+ years of experience, I build **scalable, secure, and production-grade enterprise apps** that don’t break on Friday evenings (because who likes weekend deployments?).  
+I believe in **clean code, secure APIs, and automation**—basically, making computers do the boring stuff so humans don’t have to.  
 
-- 🔭 I pursued B.Tech in Software Engineering degree from SRM Institute of Science and Technology;
-- 🌱 I’m currently learning Docker and Android Development;
-- 👯 I’m Proficient with Java, HTML, JavaScript, CSS, Spring Boot, React;
-- 🤔 I’m interested in Software Product development;
-- 💬 Ask me about anything;
-- 📫 How to reach me: [Gmail](tsriram2310@gmail.com);
-- 😄 Pronouns: He/Him;
-- ⚡ Fun fact: I am Ironman.
--  Check my website: https://argohaw.github.io/SriramPortfolio/
--  Check out CarsArena Website: https://carsarena.netlify.app/
+---
 
-### Connect with me:
+## 🔹 Latest Work Experience
+**Software Engineer – OpenText**  
+- Developed and deployed **Spring Boot microservices (Java 21)** for cloud-native enterprise apps.  
+- Delivered **secure RESTful APIs** with OAuth2 and Spring Security.  
+- Built reusable **React.js dashboards** to improve usability and data-driven decisions.  
+- Automated **CI/CD pipelines** with Docker, Kubernetes, Jenkins, and Git.  
+- Improved code quality with **90%+ unit test coverage (JUnit, Mockito)** and drove security advocacy.  
 
-[<img align="left" alt="Sriram | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Sriram | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sriram | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sriram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
-<br />
+## 🔹 Skills
 
-### Languages and Tools:
+<p align="left">
+  <!-- Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <br/><br/>
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <br/><br/>
+  <!-- Databases & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="MSSQL"/>
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+---
 
-<br />
-<br />
+## 🔹 Interests & Projects
 
-### Game Development :
+- **ARGUS - AI RiskGUard Shield** 🛡️  
+  AI-powered **secure document redaction system** for healthcare data using OpenText APIs.  
+  Features include **OCR-based PII detection, role-based visibility, HIPAA-compliant design**.  
 
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unrealengine.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" />
+- **Deploy-inator** ⚡  
+  An **automation platform** built with Spring Boot, React.js, and Redis to provision DB containers, configure servers, and deploy enterprise apps.  
+  Reduced VM setup time by **80%**, eliminating manual configuration errors.  
 
-<br /><br />
+- **Secure E-Voting System using Blockchain** [⛓️](https://aip.scitation.org/doi/abs/10.1063/5.0109146)  
+  Built with **Solidity**, ensuring integrity, transparency, and tamper-proof voting.  
 
-### Frontend :
+---
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+## 🔹 Connect with Me
 
-<br />
+<p align="left">
+  <a href="https://www.linkedin.com/in/t-sriramasivam/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn"/>
+  </a>
 
-### Database :
+  <a href="https://argohaw.github.io/SriramPortfolio/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" width="40" title="Portfolio"/>
+  </a>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/Mongo-DB-orange)
-
-<br />
-
-⭐️ From [Sriram](https://github.com/argohaw)
-
-[twitter]: https://twitter.com/iamdangero
-[youtube]: https://www.youtube.com/channel/UC38eN-VLdXt3RMotd0HW-ag
-[instagram]: https://www.instagram.com/iamargohaw/
-[linkedin]: https://www.linkedin.com/in/t-sriramasivam-85265b188/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+  <a href="mailto:tsriram2310@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Email"/>
+  </a>
+</p>
